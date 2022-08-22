@@ -1,3 +1,31 @@
-{
-  "showAd":true
-}
+[
+  {
+    date: "",
+    teams: [
+      {
+        fixture: "",
+        prediction: "",
+        odds: "",
+        results: "",
+      },
+      {
+        fixture: "",
+        prediction: "",
+        odds: "",
+        results: "",
+      },
+      {
+        fixture: "",
+        prediction: "",
+        odds: "",
+        results: "",
+      },
+      {
+        fixture: "",
+        prediction: "",
+        odds: "",
+        results: "",
+      },
+    ],
+  },
+];
